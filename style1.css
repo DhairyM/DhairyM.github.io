@@ -1,4 +1,4 @@
-body { background-color: lightgrey; border: 3px solid black; }
+body { background-color: lightgrey; border: 3px solid black; position: relative; }
 h1 { font-family: 'pacifico' , cursive; color: black; text-align: center; text-decoration: underline;}
 p { font-size: 'Roboto' , sans-serif; text-align: center;  font-size: 20px;}
 img { border-radius: 50% ; display: block; margin-left: auto; margin-right: auto; }
